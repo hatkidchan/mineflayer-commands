@@ -1,0 +1,26 @@
+{
+  "name": "mineflayer-commands",
+  "version": "1.0.0",
+  "description": "Easy-to use plugin for managing your bot chat commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "(cd tests; for file in test-*.js; do node $file; done)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatkidchan/mineflayer-commands.git"
+  },
+  "keywords": [
+    "mineflayer",
+    "minecraft",
+    "chat",
+    "bot",
+    "plugin"
+  ],
+  "author": "hatkidchan <hatkidchan@github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hatkidchan/mineflayer-commands/issues"
+  },
+  "homepage": "https://github.com/hatkidchan/mineflayer-commands#readme"
+}

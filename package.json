@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/hatkidchan/mineflayer-commands/issues"
   },
-  "homepage": "https://github.com/hatkidchan/mineflayer-commands#readme"
+  "homepage": "https://github.com/hatkidchan/mineflayer-commands#readme",
+  "dependencies": {
+    "argv-split": "^2.0.1",
+    "mineflayer": "^3.9.0",
+    "wordwrap": "^1.0.0"
+  }
 }
